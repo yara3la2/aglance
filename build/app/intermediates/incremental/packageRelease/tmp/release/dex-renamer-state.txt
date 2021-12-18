@@ -1,0 +1,4 @@
+#Fri Nov 19 19:46:10 EET 2021
+base.0=F\:\\yara\\Specializee\\Specializee\\Specializee\\flutter_first_women_app-20210131T114259Z-001\\flutter_first_women_app\\build\\app\\intermediates\\transforms\\r8\\release\\0\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
